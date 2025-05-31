@@ -4,6 +4,7 @@
 #include <fstream>
 using namespace std;
 		//D
+		//mas akhyar
 		void tampilkan(){
 			cout<<"selamat datang di supermrket alpro\n";
 		}
